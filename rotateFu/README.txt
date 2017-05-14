@@ -1,0 +1,1 @@
+The codes to track an AR marker and represent it as a rotating Chinese "FU" Symbol.
