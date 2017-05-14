@@ -1,2 +1,2 @@
 # AR
-Some code for fun
+Some codes for fun
